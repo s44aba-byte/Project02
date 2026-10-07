@@ -1,0 +1,23 @@
+.named-color {
+    background-color: green;
+}
+
+.hex-color {
+    background-color: #3498db;
+}
+
+.rgb-color {
+    background-color: rgb(46, 204, 113);
+}
+
+.rgba-color {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.5);
+}
+.opacity-box {
+      width: 300px;
+    height: 100px;
+    background-color: blue;
+    opacity: 0.5;
+}

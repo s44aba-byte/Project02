@@ -1,0 +1,23 @@
+.navbar {
+    position: fixed;
+    top: 0;
+}
+body {
+    padding-top: 80px;
+}
+.card {
+    position: relative;
+    width: 300px;
+    padding: 30px;
+    border: 1px solid #ccc;
+}
+.badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.back-to-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
